@@ -33,11 +33,7 @@ Our Research Question is:
 
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
-
-
-
-
-
+A study was condocted to see who can do more pushups, line players or skill players. All the players were asked to do as many pushups as they could in two minutes. The players were separated the weight of the players, the amount of pushups done by each player and wether they are line or skill players.
 
 # Results
 <!--You have both graphical and numerical methods, so you will have both graphical and numerical results to consider.!-->
