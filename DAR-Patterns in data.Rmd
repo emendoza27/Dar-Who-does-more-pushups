@@ -24,7 +24,7 @@ help(pushups)
 
 Among other things, the students recorded the type of position a player had on the team (either line or skill), and also the number of push-ups each player could perform in a two-minute period.
 
-Line players are on the offensive or defensive line.  They need to be a certain kind of speed, but they must also be quite big and strong.  Skill players do a lot of runninga and catching:  they are the quarterback, running backs, receivers, etc.
+Line players are on the offensive or defensive line.  They need to be a certain kind of speed, but they must also be quite big and strong.  Skill players do a lot of running and catching:  they are the quarterback, running backs, receivers, etc.
 
 Our Research Question is:
 
@@ -37,7 +37,7 @@ A study was condocted to see who can do more pushups, line players or skill play
 
 # Results
 <!--You have both graphical and numerical methods, so you will have both graphical and numerical results to consider.!-->
-According to the results in our data skill players 
+According to the results in our data skill players do an average of 55 push more that line players.
 
 
 ## Graphical Results
@@ -48,7 +48,7 @@ bwplot(pushups ~ position,
 	data = pushups)
 ```
 
-In this graph we can see skill players do more pushups that line players 
+In this graph we can see skill players do more pushups that line players.
 
 ## Numerical Results
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
@@ -67,4 +67,4 @@ t.test(weight~position, data=pushups)
 
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
-
+Therefore, we can see that the average skill players does 57% more pushup than the average line player, 
